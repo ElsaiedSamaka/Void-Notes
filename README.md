@@ -32,3 +32,5 @@ To create the edit functionality I had to refactor my components so that the for
 ## Contact
 
 Samaka @ElsaiedSamaka on Twitter
+
+Project link: [#netlify](https://react-tailwind-notes.netlify.app/)
